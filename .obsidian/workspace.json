@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9880b58a6fc12392",
+        "id": "ba821fa44879c927",
         "type": "tabs",
         "children": [
           {
-            "id": "78d2e6a6b070c94c",
+            "id": "dccff568c842a1d6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 - Web Application Security/Challenges/OWASP Juice Shop.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "OWASP Juice Shop"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "30a323acc13320b3",
@@ -90,9 +95,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacking Journal/Resources/Creative Thinking Models.md",
+                "file": "01 - Web Application Security/Challenges/OWASP Juice Shop.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -100,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Creative Thinking Models"
+              "title": "Backlinks for OWASP Juice Shop"
             }
           },
           {
@@ -109,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hacking Journal/Resources/Creative Thinking Models.md",
+                "file": "01 - Web Application Security/Challenges/OWASP Juice Shop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Creative Thinking Models"
+              "title": "Outgoing links from OWASP Juice Shop"
             }
           },
           {
@@ -152,16 +157,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hacking Journal/Resources/Creative Thinking Models.md",
+                "file": "01 - Web Application Security/Challenges/OWASP Juice Shop.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Creative Thinking Models"
+              "title": "Outline of OWASP Juice Shop"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -179,9 +185,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "1fab7a7883ab3565",
+  "active": "dccff568c842a1d6",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Prompt.md",
+    "00 - Hacking Roadmap.md",
+    "05 - Custom Exploit Development",
+    "04 - IoT and Cloud Hacking",
+    "03 - Binary Exploitation and Reverse Engineering",
+    "02 - Network Exploitation",
+    "01 - Web Application Security/Notes/SQL Injection (SQLi).md",
+    "01 - Web Application Security/Notes/Cross-Site Scripting (XSS).md",
+    "01 - Web Application Security/Challenges/OWASP Juice Shop.md",
+    "01 - Web Application Security/Notes",
+    "01 - Web Application Security/Challenges",
+    "01 - Web Application Security",
+    "Progress_Tracker.md",
     "Hacking Journal/000 - The Plan.md",
     "Hacking Journal/Resources/Creative Thinking Models.md",
     "Hacking Journal/002 - Practice Lab - OWASP Juice Shop.md",
