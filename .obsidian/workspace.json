@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "1ff06974acea9339",
+    "type": "split",
+    "children": [
+      {
+        "id": "9880b58a6fc12392",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78d2e6a6b070c94c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "34547fbd37c8c29e",
+    "type": "split",
+    "children": [
+      {
+        "id": "876e23dcc685b803",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fab7a7883ab3565",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3202ea1a1f4ccbe8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "43b4a26c223a25f8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "30a323acc13320b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e73ab09409fc5d2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e939016bf1d5680b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hacking Journal/Resources/Creative Thinking Models.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Creative Thinking Models"
+            }
+          },
+          {
+            "id": "3d9c9fb25b09d30d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hacking Journal/Resources/Creative Thinking Models.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Creative Thinking Models"
+            }
+          },
+          {
+            "id": "0f608cecf5df1430",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6ac441b57f16d506",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a35625f2d73b852c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hacking Journal/Resources/Creative Thinking Models.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Creative Thinking Models"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1fab7a7883ab3565",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Hacking Journal/000 - The Plan.md",
+    "Hacking Journal/Resources/Creative Thinking Models.md",
+    "Hacking Journal/002 - Practice Lab - OWASP Juice Shop.md",
+    "Hacking Journal/001 - Web Application Security - OWASP Top 10.md",
+    "Hacking Journal/003 - Mental Models for Creative Thinking.md",
+    "Hacking Journal/Resources",
+    "Hacking Journal"
+  ]
+}
